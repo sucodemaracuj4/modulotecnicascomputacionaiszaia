@@ -11,14 +11,18 @@ const pergunta = [
         alternativas:[ 
             {
             texto: "Permitindo conexões com o mundo digital",
-            afirmacao:  "Utilizar redes de comunicação mais acessíveis para divulgar novidades ecológicas e simples que caiba no cotidiano de cada cidadão.",
+            afirmacao:[  "Utilizar redes de comunicação mais acessíveis para divulgar novidades ecológicas e simples que caiba no cotidiano de cada cidadão.",
+            "as resoluções propagadas nesse meio causam a ilusão de que o proplema social surge a partir das minorias."
+        ]
     },
     {
          texto:"Utilizar redes de comunicação mais acessíveis para divulgar novidades ecológicas e simples que caiba no cotidiano de cada cidadão.",
          afirmacao:" É possível, já que há inúmeros acessos e diversas compreensões do que é passado e pode ajudar muitas comunidades com simplicidade e inovação",
     }
-        ]
+]
     },
+
+
       { enunciado: "Qual é a visão da comunidade diante das resoluções e propostas intuitivamente ecológicas?",
         alternativas:[
             {
@@ -81,6 +85,9 @@ function mostraResultado(){
     caixaPergunta.textContent = ".";
     textoResultado.textContent = "historiaFinal";
     caixaAlternativas.textContent = ".";
+}
+function aleatorio(lista){
+    const posicao = Math.random()*lista.length;
 }
 mostraPergunta()
 
