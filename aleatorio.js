@@ -1,0 +1,1 @@
+const nomes = ["Ivy", "Rafaela", "Claudia", "Vitinho", "Kiko", "Poento", "Betina"];
