@@ -24,20 +24,20 @@ export const perguntas =  [
         enunciado:  "Qual é a visão da comunidade diante das resoluções e propostas intuitivamente ecológicas?",
         alternativas: [
             {
-                texto: "Um novo dilema a ser enfrentado",
+                texto: "Um dilema a ser enfrentado",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "É um novo desafio, uma novidade diante das barreiras culturais",
+                   "Aceitam o incentivo e trabalham para o bem-estar comum",
+                    "Existe a possibilidade de enfrentamento a partir da compreensão de cada cidadão"
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Como os ecossistemas se beneficiarão das resoluções propostas, adiantando que a divulgação será iminente e abordará diferentes residências?",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                   "Através da mudança na quantidade de materiais descartados, a fauna e flora poderão perpetuar-se de forma natural e benéfica, habituando a vida de pessoas em diferentes realidades socioeconômicas",
+                    "A reprodução e biodiversidade poderão continuar, uma vez que o metabolismo animal vai aos poucos se alterando, através das renovações de ciclos.",
+                    "As consequências negativas em meio à natureza  irão diminuir substancialmente, com níveis de lixo, doença, emissões de carbono reduzida"
                 ],
                 proxima: 4,
             },
